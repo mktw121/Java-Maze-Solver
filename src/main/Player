@@ -1,0 +1,9 @@
+package main;
+
+/**
+ * Allows the person to transverse the maze.
+ */
+public class Player {
+
+}
+

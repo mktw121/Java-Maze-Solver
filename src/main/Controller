@@ -1,0 +1,10 @@
+package main;
+
+/**
+ * Communication between Generator, Player and Solver
+ * 
+ */
+public class Controller {
+     
+
+}
